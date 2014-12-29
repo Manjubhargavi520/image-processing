@@ -1,0 +1,26 @@
+/*
+Author: Shekhar Joshi-trendin.com
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 29 Dec, 2014, 4:31:06 PM
+    Author     : shekhar.joshi
+*/
+
+
+#imageUploadForm {
+    background-color: aquamarine;
+    padding: 5px;
+    width: 500px;
+    border-radius: 5px;
+}
+
+#imageUploadForm input[type="file"] {
+    float: left;
+}
+
+#imageUploadForm input[type="submit"] {
+    float: right;
+}
