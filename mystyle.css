@@ -1,0 +1,65 @@
+#panelpresize,#flipresize{
+			padding:5px;
+			text-align:center;
+			background-color:#e5eecc;
+			border:solid 1px #c3c3c3;
+			}
+			
+			#panelpresize{
+			color:red;
+			padding:50px;
+			background-color:black;
+			display:none;
+			}
+			
+			#panelwatermark,#flipwatermark{
+			padding:5px;
+			text-align:center;
+			background-color:#e5eecc;
+			border:solid 1px #c3c3c3;
+			}
+			
+			#panelwatermark{
+			color:red;
+			padding:50px;
+			background-color:black;
+			display:none;
+			}
+			
+			#panelcrop,#flipcrop{
+			padding:5px;
+			text-align:center;
+			background-color:#e5eecc;
+			border:solid 1px #c3c3c3;
+			}
+			
+			#panelcrop{
+			color:red;
+			padding:50px;
+			display:none;
+			background-color:black;
+			}
+			
+			#blockresizepre{
+				display: none;
+				background-color:orange;
+				breadth : 100%; 
+			}
+			#blockresizenonpre{
+				background-color:orange;
+				display: none;
+			}
+			
+			#blockwatermarkimg{
+				background-color:orange;
+				display: none;
+			}
+			#blockwatermarktext{
+				background-color:orange;
+				display: none;
+			}
+			#cropimage{
+				background-color:orange;
+			}
+			
+		</style>
